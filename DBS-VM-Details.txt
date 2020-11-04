@@ -1,0 +1,12 @@
+DBS VM Details
+
+Resource Group Name: DBS-VM-RG
+VM Name: DBS-VM
+Instance type: B8MS
+Ram: 32
+vCPU:8
+OS: windows
+Avg approx cost/month: 314 USD
+IP Address: 104.43.142.99
+Username: DBSVMachine123
+Password: Admin@123456

@@ -1,0 +1,6 @@
+Changepond IP's
+
+223.31.68.62	Chagepond Primary IP
+122.183.242.174	Changepond Primary IP
+14.98.48.158	Changepond Primary IP
+182.74.119.242	Changepond Secondary IP
